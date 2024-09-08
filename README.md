@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Naufal Rizki Abyan</h1>
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 🔭 I’m currently majoring Information System at **UPN "Veteran" Jawa Timur**
 
@@ -26,7 +26,7 @@
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=postman,reactrouter,figma,idea,vscode,netbeans">
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode">
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
