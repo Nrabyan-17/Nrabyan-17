@@ -14,8 +14,11 @@
 
 <h3 align="center">Technology i've ever used when code:</h3>
 <hr>
-<h3>Front-end:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,java,bootstrap,nodejs,expressjs,cpp">
+<div>
+    <h3>Front-end:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,java,bootstrap,nodejs,expressjs,cpp">
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nrabyan-17&show_icons=true&locale=en" alt="nrabyan-17" /></p>
