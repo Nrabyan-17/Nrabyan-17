@@ -10,6 +10,7 @@
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
+    <a><img src="https://skillicons.dev/icons?i=github"></a>
     <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 </p>
