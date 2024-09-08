@@ -24,6 +24,11 @@
     <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql">
 </div>
 
+<div gap-bottom: "5px">
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=postman,reactrouter,figma,idea,visualstudiocode">
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nrabyan-17&show_icons=true&locale=en" alt="nrabyan-17" /></p>
