@@ -6,18 +6,18 @@
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" padding-right="6">
+<p align="left" gap="6">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
 </p>
 
-<img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img width="200" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
 <h3 align="center">Technology i've ever used when code:</h3>
 <hr>
-<div margin-bottom:"5px">
+<div margin-bottom:"5">
     <h3>Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap">
 </div>
