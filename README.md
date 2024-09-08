@@ -12,8 +12,9 @@
 </p>
 
 
-<h1 align="center">Technology i've ever used when code:</h1>
+<h3 align="center">Technology i've ever used when code:</h3>
 <hr>
+<h3>Front-end:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,java,bootstrap,nodejs,expressjs,cpp">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
 
