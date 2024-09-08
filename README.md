@@ -12,7 +12,7 @@
 <img align="right" width="400px" margin-bottom="5px" alt="coding animated" src="https://images.app.goo.gl/HbgyZtKQePzZQETN9">
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3https://skillicons.dev">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nrabyan-17&show_icons=true&locale=en" alt="nrabyan-17" /></p>
