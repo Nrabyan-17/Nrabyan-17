@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin">
+    <a><img src="https://skillicons.dev/icons?i=instagram"></a>
+    <a><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
 <img align="right" width="400px" margin-bottom="5px" alt="coding animated" src="https://images.app.goo.gl/HbgyZtKQePzZQETN9">
