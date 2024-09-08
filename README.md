@@ -10,9 +10,10 @@
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
+    <img width="200" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+
 </p>
 
-<img width="200" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
 <h3 align="center">Technology i've ever used when code:</h3>
