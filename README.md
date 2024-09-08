@@ -14,7 +14,7 @@
 
 <h3 align="center">Technology i've ever used when code:</h3>
 <hr>
-<div>
+<div margin-bottom="5px">
     <h3>Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,java,bootstrap,nodejs,expressjs,cpp">
 </div>
