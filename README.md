@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" gap="6">
+<p align="left" gap="50">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
-    <img width="200" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+    <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 </p>
 
