@@ -16,7 +16,7 @@
 
 
 
-<h3 align="center">Technology i've ever used when code:</h3>
+<h3 align="center">Technology & Tools:</h3>
 <hr>
 <div margin-bottom:"5">
     <h3>Front-end:</h3>
