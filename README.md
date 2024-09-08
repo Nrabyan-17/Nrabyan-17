@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" padding-right="6px">
+<p align="left" padding-right:"6px">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
@@ -14,12 +14,12 @@
 
 <h3 align="center">Technology i've ever used when code:</h3>
 <hr>
-<div margin-bottom="5px">
+<div margin-bottom:"5px">
     <h3>Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,java,bootstrap,nodejs,expressjs,cpp">
 </div>
 
-<div margin-bottom="5px">
+<div gap-bottom: "5px">
     <h3>Back-end:</h3>
     <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql">
 </div>
