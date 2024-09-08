@@ -11,7 +11,6 @@
     <a><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
-<img align="right" width="400px" margin-bottom="5px" alt="coding animated" src="https://images.app.goo.gl/HbgyZtKQePzZQETN9">
 
 <h3 align="center">Languages and Tools:</h3>
 <hr>
