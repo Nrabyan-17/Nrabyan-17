@@ -26,7 +26,7 @@
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=postman,reactrouter,figma,idea,visualstudiocode">
+    <img src="https://skillicons.dev/icons?i=postman,reactrouter,figma,idea,visualstudiocode,netbeans">
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
