@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" gap="3px">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
