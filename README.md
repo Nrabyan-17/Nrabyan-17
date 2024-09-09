@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">My Social Media:</h3>
-<p align="left" padding-right="20">
+<p align="left" margin-left="20">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
