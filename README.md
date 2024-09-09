@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media:</h3>
 <p align="left" gap="50">
     <a><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
