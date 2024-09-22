@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently majoring Information System at **UPN "Veteran" Jawa Timur**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning JavaScript Ecosystem and Figma Tools
 
 <h3 align="left">My Social Media:</h3>
 <p align="left" gap="25">
