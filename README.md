@@ -26,7 +26,7 @@
 
 <div gap-bottom: "5px">
     <h3>Back-end:</h3>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql,dotnet">
 </div>
 
 <div gap-bottom: "5px">
