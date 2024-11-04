@@ -7,7 +7,7 @@
 
 <h3 align="left">My Social Media:</h3>
 <p align="left" gap="25">
-    <a href=""><img src="https://skillicons.dev/icons?i=instagram"></a>
+    <a href="instragam.com"><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a href="https://stackoverflow.com/users/23208963/hello-world-aby"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
     <a href="https://github.com/Nrabyan-17"><img src="https://skillicons.dev/icons?i=github"></a>
