@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Naufal Rizki Abyan</h1>
+<h1 align="center">Hi There👋, My name is Naufal Rizki Abyan</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 🔭 I’m currently majoring Information System at **UPN "Veteran" Jawa Timur**
