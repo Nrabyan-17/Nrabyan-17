@@ -1,11 +1,11 @@
-<h1 align="center">Hi There👋, My name is Naufal Rizki Abyan</h1>
+![image](https://github.com/user-attachments/assets/dd638d38-efd8-4204-b49c-30034971ab0e)<h1 align="center">Hi There👋, My name is Naufal Rizki Abyan</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 🏛️ I’m currently majoring Information System at **UPN "Veteran" Jawa Timur**
 
-- 💻 I’m currently learning JavaScript Ecosystem and Figma Tools
+- 👨‍💻 I’m currently learning JavaScript Ecosystem and Figma Tools
 
-<h3 align="left" margin-left="50px">My Social Media:</h3>
+<h3 align="left" margin-left="50px">🌐 My Social Media:</h3>
 <p align="left" gap="25">
     <a href="instragam.com"><img src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/abyan-rizki-76021528b/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">Technology & Tools:</h3>
+<h3 align="center"> Technology & Tools: ⚒️</h3>
 <hr>
 <div margin-bottom:"5">
     <h3>Front-end:</h3>
