@@ -21,7 +21,7 @@
 
 
 
-<h3 align="center"> Technology & Tools: ⚒️</h3>
+<h3 align="center"> ⚒️ Technology & Tools: </h3>
 <hr>
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
