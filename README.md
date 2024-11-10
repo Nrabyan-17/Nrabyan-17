@@ -2,19 +2,10 @@
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 
-
-
-
-
-
-<div gap-top="2px">
 - 🏛️ I’m currently majoring Information System at **UPN "Veteran" Jawa Timur
     
 - 👨‍💻 I’m currently learning JavaScript Ecosystem and Figma Tools
-</div>
-    
 
-  
 
 <h3 align="left" margin-left="50px">🌐 My Social Media:</h3>
 <p align="left" gap="25">
@@ -25,8 +16,6 @@
     <a href="https://gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
     <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 </p>
-
-
 
 <h3 align="center"> ⚒️ Technology & Tools: </h3>
 <hr>
