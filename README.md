@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, My name is Naufal Rizki Abyan</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-<div margin-top="12px">
+<div margin-top="12">
 - 🏛️ I’m currently majoring Information System at **UPN "Veteran" Jawa Timur**
 
 - 👨‍💻 I’m currently learning JavaScript Ecosystem and Figma Tools  
