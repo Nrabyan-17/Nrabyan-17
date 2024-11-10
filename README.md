@@ -3,6 +3,8 @@
 
 <div margin-top:"12px">
 - 🏛️ I’m currently majoring Information System at **UPN "Veteran" Jawa Timur
+
+    
 - 👨‍💻 I’m currently learning JavaScript Ecosystem and Figma Tools  
 </div>
 
