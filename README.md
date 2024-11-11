@@ -17,7 +17,7 @@
     <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 </p>
 
-<h3 align="center"> ⚒️ Technology & Tools: </h3>
+<h3 align="center">  Technology & Tools: </h3>
 <hr>
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
