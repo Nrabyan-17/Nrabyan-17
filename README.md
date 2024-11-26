@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 <hr font="semibold"/>
 
-- 🌍 I'm Based in Indonesia, especially on Surabaya, East Java
+- 🌍 I'm Based in Indonesia, especially in Surabaya, East Java
 
 - 🏛️ I’m currently majoring Information System at UPN "Veteran" Jawa Timur
     
