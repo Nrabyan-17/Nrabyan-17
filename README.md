@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, My name is Naufal Rizki Abyan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FFFFFF&width=435&lines=Hi+There%F0%9F%91%8B%2C+My+name+is+Naufal+Rizki+Abyan;I'm+based+in+Indonesia%2C+especially+in+Surabaya%2C+East+JaAVA;Get+in+touch+with+me)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 <hr font="semibold"/>
 <br />
