@@ -10,6 +10,8 @@
 
 - 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest
 
+  <br />
+
 
 <h3 align="left" margin-left="50px">🌐 My Social Media:</h3>
 <p align="left" gap="25">
