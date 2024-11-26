@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=2507&color=FFFFFF&background=FFFFFF00&center=true&width=1000&lines=Hi+There%F0%9F%91%8B%2C+My+name+is+Naufal+Rizki+Abyan;I'm+based+in+Indonesia%2C+especially+in+Surabaya%2C+East+Java;Get+in+touch+with+me+on+My+Social+Media)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&pause=2507&color=FFFFFF&background=FFFFFF00&center=true&width=1000&height=49&lines=Hi+There%F0%9F%91%8B%2C+My+name+is+Naufal+Rizki+Abyan;I'm+based+in+Indonesia%2C+especially+in+Surabaya%2C+East+Java;Get+in+touch+with+me+on+My+Social+Media+below)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 <hr />
 
