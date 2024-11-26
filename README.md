@@ -9,7 +9,7 @@
     
 - 👨‍💻 I’m currently learning JavaScript Ecosystem and Figma Tools
 
-- 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity
+- 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest
 
 
 <h3 align="left" margin-left="50px">🌐 My Social Media:</h3>
