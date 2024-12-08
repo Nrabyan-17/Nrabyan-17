@@ -44,5 +44,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrabyan-17&show_icons=true&locale=en&layout=compact" alt="nrabyan-17" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=discord-old-blurple&border_radius=4.8)](https://git.io/streak-stats)
     
