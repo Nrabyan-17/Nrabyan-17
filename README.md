@@ -42,5 +42,7 @@
 
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nrabyan-17&icons=true&theme=algolia) [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=discord-old-blurple&border_radius=4.8)](https://git.io/streak-stats)
+<div display: flex>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nrabyan-17&icons=true&theme=algolia) [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=discord-old-blurple&border_radius=4.8)](https://git.io/streak-stats)  
+</div>
     
