@@ -44,7 +44,7 @@
 <hr />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Nrabyan-17&theme=algolia" />
+  <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api?username=Nrabyan-17&theme=algolia" />
 </a>
 
 <a href="https://git.io/streak-stats">
