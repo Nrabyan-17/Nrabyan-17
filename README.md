@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-    <img margin-top=5 src="https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&card_width=494" alt="GitHub Streak" />
+    <img align=center src="https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&card_width=494" alt="GitHub Streak" />
 </a>
   
   
