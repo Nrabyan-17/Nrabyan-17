@@ -47,3 +47,5 @@
 </a>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&border_radius=4.8)](https://git.io/streak-stats) 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
