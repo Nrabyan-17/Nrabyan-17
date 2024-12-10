@@ -44,10 +44,10 @@
 <hr />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nrabyan-17&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nrabyan-17&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
   
   
