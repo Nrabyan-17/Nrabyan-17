@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-    <img align=center src="https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&card_width=365" alt="GitHub Streak" />
+    <img align=center height=200 src="https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&card_width=365" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
