@@ -46,4 +46,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nrabyan-17&show_icons=true&theme=algolia" />
 </a>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=react&border_radius=4.8)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&border_radius=4.8)](https://git.io/streak-stats) 
