@@ -50,7 +50,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nrabyan-17&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&card_width=494&margin-top=5)] (https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Nrabyan-17&theme=discord-old-blurple&card_width=494" alt="GitHub Streak" />
+</a>
   
   
 
