@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion">
 </div> 
 
+Github Stats
 <hr />
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia&border_radius=4.8)](https://git.io/streak-stats) 
