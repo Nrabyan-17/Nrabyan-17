@@ -20,7 +20,6 @@
     <a href="https://stackoverflow.com/users/23208963/hello-world-aby"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
     <a href="https://github.com/Nrabyan-17"><img src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-    <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 </p>
 
 <h3 align="center">  Technology & Tools: </h3>
@@ -53,6 +52,8 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia)](https://git.io/streak-stats)
+
+  <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
   
