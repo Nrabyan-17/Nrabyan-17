@@ -53,7 +53,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia)](https://git.io/streak-stats)
 
-  <img width="400" align="right" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+  <img width="400" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
   
