@@ -31,7 +31,7 @@
 
 <div gap-bottom: "5px">
     <h3>Back-end & Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql,dotnet">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,mysql,dotnet,php">
 </div>
 
 <div gap-bottom: "5px">
