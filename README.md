@@ -6,7 +6,7 @@
 
 - 🏛️ I’m currently majoring Information System at UPN "Veteran" Jawa Timur
     
-- 👨‍💻 I’m currently learning JavaScript Ecosystem and PHP
+- 👨‍💻 I’m currently learning JavaScript Ecosystem and Laravel
 
 - 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest
 
