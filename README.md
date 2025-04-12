@@ -26,7 +26,7 @@
 <hr>
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,alpinejs">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,alpinejs">
 </div>
 
 <div gap-bottom: "5px">
