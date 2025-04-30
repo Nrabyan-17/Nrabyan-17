@@ -20,7 +20,7 @@
     <a href="https://stackoverflow.com/users/23208963/hello-world-aby"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
     <a href="https://github.com/Nrabyan-17"><img src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-    <a href="https://reddit.com"><img src="https://skillicons.dev/icons?i=reddit"></a>
+    <a href="https://reddit.com"><img src="https://skillicons.dev/icons?i=Reddit"></a>
 </p>
 
 <h3 align="center">  Technology & Tools: </h3>
