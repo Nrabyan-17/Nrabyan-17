@@ -37,7 +37,7 @@
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio">
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio,n8n">
 </div> 
 
 
