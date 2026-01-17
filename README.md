@@ -32,12 +32,12 @@
 
 <div gap-bottom: "5px">
     <h3>Back-end & Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,dotnet,php,laravel,livewire,mysql,postgresql,sqlite">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio,n8n">
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio,antigravity,cursor">
 </div> 
 
 
