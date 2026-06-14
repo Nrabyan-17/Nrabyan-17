@@ -6,7 +6,7 @@
 
 - 🏛️ I’m currently majoring Information System at UPN "Veteran" Jawa Timur
     
-- 👨‍💻 I’m currently learning AI Automation Workflow and AI Agent
+- 👨‍💻 I’m currently learning AI Automation Workflow and AI Agentic Workflow
 
 - 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest
 
