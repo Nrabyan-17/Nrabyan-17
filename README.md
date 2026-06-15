@@ -27,17 +27,17 @@
 <hr>
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,nextjs,streamlit">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,nextjs,vite">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Back-end & Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite,prisma">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite,prisma,supabase">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio">
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,idea,vscode,notion,obsidian,androidstudio,jupyternotebooks">
 </div> 
 
 
