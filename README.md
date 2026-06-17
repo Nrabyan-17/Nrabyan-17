@@ -32,7 +32,7 @@
 
 <div gap-bottom: "5px">
     <h3>Back-end & Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite,prisma,supabase">
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite,supabase">
 </div>
 
 <div gap-bottom: "5px">
