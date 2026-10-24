@@ -27,12 +27,12 @@
 <hr>
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,nextjs,vite">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,alpinejs,nextjs,vite">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Back-end & Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,expressjs,dotnet,php,laravel,mysql,postgresql,sqlite,supabase">
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,expressjs,dotnet,php,laravel,livewire,mysql,postgresql,sqlite,supabase">
 </div>
 
 <div gap-bottom: "5px">
