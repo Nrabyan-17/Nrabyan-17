@@ -4,7 +4,7 @@
 
 - 🌍 I'm Based in Indonesia, especially in Surabaya, East Java
 
-- 🏛️ I’m currently majoring Information System at 7th Semester at UPN "Veteran" Jawa Timur
+- 🏛️ I’m an undergraduate Information System student 7th Semester at UPN "Veteran" Jawa Timur
     
 - 👨‍💻 I’m currently learning AI Automation Workflow and AI Agentic System for solving business problem 
 
