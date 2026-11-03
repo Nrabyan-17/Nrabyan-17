@@ -6,7 +6,7 @@
 
 - 🏛️ I’m an undergraduate Information System student 7th Semester at UPN "Veteran" Jawa Timur
     
-- 👨‍💻 I’m currently learning AI Automation Workflow and AI Agentic System for solving business problem 
+- 👨‍💻 I’m currently learning AI Automation Workflow and AI Agentic System for solving real business problem 
 
 - 🧠 I'm always eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest
 
