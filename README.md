@@ -8,7 +8,7 @@
     
 - 👨‍💻 I’m currently learning AI Automation Workflow and AI Agentic System for solving real business problem.
 
-- 🧠 I'm always adapt and eager to learn about the newest Technology and have a sense of curiousity to the field that i'm interest.
+- 🧠 I'm always adapt and eager to learn about the newest Technology, also have a sense of curiousity to the field that i'm interest.
 
   <br />
 
