@@ -42,8 +42,8 @@
 
 
 <hr />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api?username=Nrabyan-17&theme=algolia" />
 </a>
 
@@ -55,11 +55,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nrabyan-17&theme=algolia)](https://git.io/streak-stats)
 
   <img width="400" alt="coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
-
-
-  
-  
-
-
-
-
+</div>
